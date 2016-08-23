@@ -1,14 +1,24 @@
-Other ideas:
-1. Can we predict an athlete's future performance based on their race history and training data?
-2. Can we recommend countries to visit based on a user's travel history as captured on social media?
-3. Can we predict which LearnZillion users will turn into engaged users based on their actions?
-
+I plan to focus on a work-related project. My team's goal is to get existing users to start using other products (ie. Cross Product Acquistion). 
+I am interested if there are in-product user behavior that would predict how likely a user is to try/buy a second product. 
+I have access to Atlassian's in-product user data which includes daily user level clicks by product.
+The data is roughly clean, although we do have client side events firing, so user behavior is not a 1-1 match. It is more like a 1-25 match. 
+I will need to spend some time scraping out these nonsense events to get the true user click events. 
+I chose this topic because it is directly related to work and I will be able to use what I learn to make more informative decisions on what 
+experiments we run and how we target users based on their behavior. 
 
 
 My Ideas: 
 1. Can we predict when a JIRA instance is most likely going to purchase Bitbucket? 
-2. Can we predict when a JIRA users would most likely use Bitbucket based on user behavior?
+2. Can we predict when a JIRA users would most likely use Bitbucket based on user behavior? Developers more likely to use BB than PMs 
 3. Can we recommend other products to JIRA users based on a user's in product behavior? 
-4. Can we predict which JIRA users will turn into engaged users based on their in product behavior?
+4. Can we predict which JIRA users will turn into engaged users based on their in product behavior? (I dont have a metric for engaged user though) 
 5. Can we predict if a user will be retained 1 year later based on month 1 user behavior? 
 
+
+I am really curous if I can use data science to know what users are "high value" or "engaged users" based on user 
+behavior frequency and intensity. Without knowing what high value means, besides maybe they are a retain users (aka paying user), can 
+data science be used to identify "quality users"? 
+
+Similarly, we know what our products "core" features are, but can I use data science to identify what users believe 
+our core features are based on their in product behavior? If we truly knew what users are getting the most value out of, we 
+could teach other users about these valuable features and get them to value our products just as much! 
