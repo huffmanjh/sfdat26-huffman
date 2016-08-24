@@ -8,10 +8,11 @@ experiments we run and how we target users based on their behavior.
 
 
 My Ideas: 
-1. Can we predict when a JIRA instance is most likely going to purchase Bitbucket? 
-2. Can we predict when a JIRA users would most likely use Bitbucket based on user behavior? Developers more likely to use BB than PMs 
+1. *Can we predict when a JIRA instance is most likely going to purchase Bitbucket? 
+2. *Can we predict when a JIRA users would most likely use Bitbucket based on user behavior? Developers more likely to use BB than PMs 
+(Similarly can we predict what role a user is based on their behavior) 
 3. Can we recommend other products to JIRA users based on a user's in product behavior? 
-4. Can we predict which JIRA users will turn into engaged users based on their in product behavior? (I dont have a metric for engaged user though) 
+4. ** Can we predict which JIRA users will turn into engaged users based on their in product behavior? (I dont have a metric for engaged user though) 
 5. Can we predict if a user will be retained 1 year later based on month 1 user behavior? 
 
 
